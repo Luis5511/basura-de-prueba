@@ -1,0 +1,111 @@
+*{
+    font-size: 24px;
+    color: black;
+}
+
+/*esto es una prueba*/
+/*
+.color {
+    color: rgb(100,50, 25)
+}
+*/
+.imagines  {
+   padding-left: 18rem;
+}
+div {
+    text-align: center;
+}
+.color {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+.margen {
+   background-color: rgb(133, 129, 196);
+   margin: 35px 50px ;
+   padding: 25px 25px ;
+   border: solid 1px black;
+   text-align-last: center;
+   text-decoration: underline;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-transform: capitalize;
+}
+.text{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 3px 5px 5px blue;
+}
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: cadetblue;
+}
+
+a:hover {
+    color: rgb(66, 94, 138);
+}
+
+a:active {
+    color: chartreuse;
+}
+
+
+
+table {
+   border-collapse: collapse;
+    width: 100%;
+}
+td {
+    text-align: center;
+}
+
+th, td {
+    border: solid 1px;
+    padding: 5px;
+}
+
+th{
+    background-color: rgb(89, 81, 190);
+    color: azure;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(118, 97, 194);
+}
+tr:hover {
+ background-color: darkgray;
+ cursor: pointer;
+}
+
+.inline {
+    display:inline;
+}
+
+.final {
+    background-color: rgb(90, 54, 122);
+    padding: 0.5rem 2rem;
+    color: azure;
+    text-align: center;
+}
+.inicio {
+    background-color: rgb(90, 54, 122);
+    padding: 1rem;
+    color: azure;
+    text-align: center;
+}
+.texto2 {
+    transition: 00.3s ease;
+    color: white;
+    text-decoration: none;
+    text-align: end;
+}
+.texto2{
+    transition: 0.3s;
+    color: white;
+    text-decoration: none;
+    text-align: end;
+}
